@@ -43,7 +43,7 @@
   <li>🚫 Any immoral or prohibited content</li>
 </ul>
 
-<p><strong>📌 We disclaim all responsibility before God for any misuse of this tool.</strong><br>
-🧑‍⚖️ <strong>The user is fully responsible before God for how they use it.</strong></p>
+<p><strong>📌 We disclaim all responsibility before Allah for any misuse of this tool.</strong><br>
+🧑‍⚖️ <strong>The user is fully responsible before Allah for how they use it.</strong></p>
 
 </div>

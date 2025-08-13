@@ -44,6 +44,6 @@
 </ul>
 
 <p><strong>📌 We disclaim all responsibility before Allah for any misuse of this tool.</strong><br>
-🧑‍⚖️ <strong>The user is fully responsible before Allah for how they use it.</strong></p>
+🧑‍⚖️ <strong>The user is responsible before Allah for how they use it.</strong></p>
 
 </div>

@@ -1,0 +1,6 @@
+{
+  "latest_version": "3.2.3",
+  "download_url": "MY_URL!",
+  "is_active": true,
+  "inactive_message": "تم إيقاف البرنامج مؤقتًا للصيانة. سنعود قريبًا."
+}
